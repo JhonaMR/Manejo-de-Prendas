@@ -15,7 +15,7 @@ const INITIAL_DATA: AppState = {
   ],
   correrias: [
     { id: 'c1', name: 'Madres', year: '2025' },
-    { id: 'c2', name: 'Madres', year: '2024' }
+    { id: 'c2', name: 'Madres', year: '2026' }
   ],
   references: [
     { id: '10210', description: 'blusa dama', price: 19900, designer: 'Martha Ramirez', cloth1: 'Lino Milan', avgCloth1: 0.85, cloth2: 'Encaje', avgCloth2: 0.15 },
