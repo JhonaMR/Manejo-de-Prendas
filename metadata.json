@@ -1,7 +1,0 @@
-{
-  "name": "Manejo de inventarios y ventas - Prendas de vestir",
-  "description": "Manejo y control de inventarios y ventas de empresa de prendas de vestir.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
