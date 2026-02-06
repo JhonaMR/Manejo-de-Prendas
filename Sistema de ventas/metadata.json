@@ -1,0 +1,7 @@
+{
+  "name": "Inventory Pro - Fashion Logistics",
+  "description": "A comprehensive garment inventory management system featuring batch reception, dispatching, real-time stock control, and detailed audit reports with a modern blue and pink aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
